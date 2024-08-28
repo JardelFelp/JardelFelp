@@ -6,10 +6,10 @@
 
 My name is **Jardel Felipe Knirsch**
 
-- 🔭 I’m a front-end developer at [Meta](https://www.meta.com.br/)
+- 🔭 I’m a front-end developer at [Datum](https://datumit.com/)
 - 👨‍💻 I’m working with React, React Native and Node
 - 📷 I’m a photography enthusiast
-- 🔬 I’m currently studying Data Science
+- 🔬 I’m currently studying Software Engineering
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jardel-knirsch/">
